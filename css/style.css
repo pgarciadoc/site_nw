@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+   color: black;
+}
+.navbar {
+    background-color: #7A1C56;
+    position: sticky;
+}
+
+.services {
+    background-color: #000000;
+}
+.card {
+    var(--bs-body-color);
+}
+
+.card-body{
+    background-color: #7A1C56;
+}
+
+.card-body h5, p{
+    color: white;
+}
+
+.card-body a {
+    color: #ffffff;
+    background-color: #000000;
+}

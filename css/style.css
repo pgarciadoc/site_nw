@@ -14,8 +14,9 @@ body {
 .services {
     background-color: #000000;
 }
-.card {
-    var(--bs-body-color);
+
+.nossosservicos-title {
+    color: white;
 }
 
 .card-body{
@@ -29,4 +30,21 @@ body {
 .card-body a {
     color: #ffffff;
     background-color: #000000;
+}
+
+#objetivo {
+    background-color: black;
+}
+
+.objetivo-1 {
+    background-color: #0098da;
+}
+
+.objetivo-2 {
+    background-color: #0098da;
+}
+
+#quemsomos {
+    background-color: black;
+    justify-content: center;
 }
